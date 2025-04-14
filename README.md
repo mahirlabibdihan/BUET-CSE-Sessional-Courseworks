@@ -2,8 +2,6 @@
 
 ## Table of Contents:
 
-- [BUET CSE Sessional Courseworks](#buet-cse-sessional-courseworks)
-  - [Table of Contents:](#table-of-contents)
   - [Level 1 Term 1](#level-1-term-1)
   - [Level 1 Term 2](#level-1-term-2)
   - [Level 2 Term 1](#level-2-term-1)
