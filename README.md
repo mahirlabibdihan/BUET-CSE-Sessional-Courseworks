@@ -2,6 +2,8 @@
 
 ## Table of Contents:
 
+- [BUET CSE Sessional Courseworks](#buet-cse-sessional-courseworks)
+  - [Table of Contents:](#table-of-contents)
   - [Level 1 Term 1](#level-1-term-1)
   - [Level 1 Term 2](#level-1-term-2)
   - [Level 2 Term 1](#level-2-term-1)
@@ -13,19 +15,30 @@
 
 ## Level 1 Term 1
 
-- [CSE 102 | Structured Programming Language](https://github.com/mahirlabibdihan/CSE102)
-  - [Term Project](https://github.com/mahirlabibdihan/DxBall-CSE-102-TermProject)
+- Assigned Works
+  - [CSE 102 | Structured Programming Language](https://github.com/mahirlabibdihan/CSE102)
+    - [Term Project](https://github.com/mahirlabibdihan/DxBall-CSE-102-TermProject)
+- Extra Works
+  - [C Basics](https://github.com/mahirlabibdihan/Structured-Progamming-Language-C)
 
 ## Level 1 Term 2
 
-- [CSE 108 | Object Oriented Programming Language](https://github.com/mahirlabibdihan/CSE108)
-  - [Term Project](https://github.com/mahirlabibdihan/Football-Player-Database-System)
+- Assigned Works
+  - [CSE 108 | Object Oriented Programming Language](https://github.com/mahirlabibdihan/CSE108)
+    - [Term Project](https://github.com/mahirlabibdihan/Football-Player-Database-System)
+- Extra Works
+  - [Java Mobile App](https://github.com/mahirlabibdihan/All-in-one-Android-Calculator)
+  - [C++ Basics](https://github.com/mahirlabibdihan/Object-Oriented-Programming-Language-CPP)
+  - [Java Basics](https://github.com/mahirlabibdihan/Object-Oriented-Programming-Language-Java)
 
 ## Level 2 Term 1
 
-- [CSE 204 | Data Structures and Algorithms 1](https://github.com/mahirlabibdihan/CSE208)
-- [CSE 206 | Digital Logic Design](https://github.com/mahirlabibdihan/CSE-206-Digital-Logic-Design-Sessional)
-- [CSE 218 | Numerical Methods](https://github.com/mahirlabibdihan/CSE218)
+- Assigned Works
+  - [CSE 204 | Data Structures and Algorithms 1](https://github.com/mahirlabibdihan/CSE208)
+  - [CSE 206 | Digital Logic Design](https://github.com/mahirlabibdihan/CSE-206-Digital-Logic-Design-Sessional)
+  - [CSE 218 | Numerical Methods](https://github.com/mahirlabibdihan/CSE218)
+- Extra Works
+  - [Collection of Algorithms](https://github.com/mahirlabibdihan/Algorithm)
 
 ## Level 2 Term 2
 
